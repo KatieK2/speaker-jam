@@ -2,13 +2,11 @@
 
 We'll help you speak at confs. Brainstorm about ideas, review proposals, and ask questions with real live speakers. 
 
-Reach out to us - you are not a burden. Click on a volunteer's link to contact them. 
+Reach out to us - you are not a burden. 
 
 ##In Person:
 
-* *Seattle, WA*: [KatieK2](https://twitter.com/katiek2) Next meeting: Wednesday Jan 28 5-6pm in Capitol Hill
-
-
+* *Seattle, WA*: [KatieK2](https://twitter.com/katiek2) Next meeting: Tuesday Feb 3rd 5-6:30pm in Belltown
 
 ##Online:
 
