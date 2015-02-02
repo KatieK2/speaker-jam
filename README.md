@@ -17,6 +17,10 @@ We'll help you speak at confs. Brainstorm about ideas, review proposals, and ask
   individual slot, or come by her [office hours gitter
   channel](https://gitter.im/rmurphey/office-hours) on Friday afternoons.
 
+##Who are we?
+
+We are a group of speakers and conference organizers who have presented their selected talks at technical conferences. We now want to share our knowledge and help new speakers be successful.
+
 ##Links and Articles:
 
 * [You would make an awesome speaker](http://weareallaweso.me/)
