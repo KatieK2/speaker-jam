@@ -7,6 +7,7 @@ We'll help you speak at confs. Brainstorm about ideas, review proposals, and ask
 ##In Person:
 
 * *Seattle, WA*: [KatieK2](https://twitter.com/katiek2) Next meeting: Tuesday Feb 3rd 5-6:30pm in Belltown
+* *Bay Area, CA*: [Kelsey](https://twitter.com/selkeymoonbeam) Meeting: Friday Feb 13th 7pm [Meetup](http://www.meetup.com/APIs-to-Electrons/events/220269710/)
 
 ##Online:
 
