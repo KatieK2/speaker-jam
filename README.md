@@ -6,7 +6,7 @@ We'll help you speak at confs. Brainstorm about ideas, review proposals, and ask
 
 ##In Person:
 
-* *Seattle, WA*: [KatieK2](https://twitter.com/katiek2) Next meeting: Tuesday Feb 10rd 5-6:30pm in Belltown
+* *Seattle, WA*: [KatieK2](https://twitter.com/katiek2) Next meeting: Tuesday Feb 17th 5-6pm in Belltown
 * *Bay Area, CA*: [Kelsey](https://twitter.com/selkeymoonbeam) Meeting: Friday Feb 13th 7pm [Meetup](http://www.meetup.com/APIs-to-Electrons/events/220269710/)
 
 ##Online:
@@ -23,6 +23,7 @@ We are a group of speakers and conference organizers who have presented their se
 
 ##Links and Articles:
 
+* [How to write a great talk proposal for a tech conference](http://2014.cssconf.eu/news/how-to-write-a-great-talk-proposal-for-a-tech)
 * [You would make an awesome speaker](http://weareallaweso.me/)
     * [How to write a compelling proposal](http://weareallaweso.me/for_speakers/how-to-write-a-compelling-proposal.html)
 * [Is Your Conference Proposal Good Enough?](http://rckbt.me/2014/01/conference-proposals/)
