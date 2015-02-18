@@ -24,11 +24,13 @@ We are a group of speakers and conference organizers who have presented their se
 ##Links and Articles:
 
 * [How to write a great talk proposal for a tech conference](http://2014.cssconf.eu/news/how-to-write-a-great-talk-proposal-for-a-tech)
+* [Writing Conference Proposals](http://rmurphey.com/blog/2015/01/26/writing-conference-proposals/)
 * [You would make an awesome speaker](http://weareallaweso.me/)
     * [How to write a compelling proposal](http://weareallaweso.me/for_speakers/how-to-write-a-compelling-proposal.html)
-* [Is Your Conference Proposal Good Enough?](http://rckbt.me/2014/01/conference-proposals/)
 * [An Addendum About Conference Proposals](http://www.voodootikigod.com/an-addendum-about-conference-proposals/)
 * [Writing the CFP](http://speaking.io/plan/writing-a-cfp/)
 * [Speaking - The Proposal](http://www.pewpewlaser.com/blogs/615)
+* [Talking about Talking](http://www.sicpers.info/2013/02/talking-about-talking/): "A big stumbling block for novice speakers I talk to is to assume that because you know something, it’s not worth talking about as there are people out there who know way more."
+* [Is Your Conference Proposal Good Enough?](http://rckbt.me/2014/01/conference-proposals/)
 
 License: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE.html).
