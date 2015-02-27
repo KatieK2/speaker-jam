@@ -6,8 +6,7 @@ We'll help you speak at confs. Brainstorm about ideas, review proposals, and ask
 
 ##In Person:
 
-* *Seattle, WA*: [KatieK2](https://twitter.com/katiek2) Next availability: Wednesday, Feb 25th 5:30-6:30pm in Capitol Hill. Just contact me via Twitter [@KatieK2](https://twitter.com/katiek2)
-<!-- * *Bay Area, CA*: [Kelsey](https://twitter.com/selkeymoonbeam) Meeting: Friday Feb 13th 7pm [Meetup](http://www.meetup.com/APIs-to-Electrons/events/220269710/) -->
+* *Seattle, WA*: [KatieK2](https://twitter.com/katiek2) Next availability: Monday March 2, 12:30-1:30pm in the International District. Just contact me via Twitter [@KatieK2](https://twitter.com/katiek2)
 
 ##Online:
 
