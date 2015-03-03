@@ -6,7 +6,7 @@ We'll help you speak at confs. Brainstorm about ideas, review proposals, and ask
 
 ##In Person:
 
-* *Seattle, WA*: [KatieK2](https://twitter.com/katiek2) Next availability: Monday March 2, 12:30-1:30pm in the International District. Just contact me via Twitter [@KatieK2](https://twitter.com/katiek2)
+* *Seattle, WA*: None scheduled. Contact [KatieK2](https://twitter.com/katiek2) via Twitter
 
 ##Online:
 
