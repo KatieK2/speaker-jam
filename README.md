@@ -23,6 +23,7 @@ We are a group of speakers and conference organizers who have presented their se
 ##Links and Articles:
 
 * [Brainstorming a Conference Talk Proposal](http://www.devchix.com/2012/08/28/brainstorming-a-conference-talk-proposal/)
+* [Talk Ideas from AlterConf](http://www.alterconf.com/talk-wishlist)
 * [How to write a great talk proposal for a tech conference](http://2014.cssconf.eu/news/how-to-write-a-great-talk-proposal-for-a-tech)
 * [Writing Conference Proposals](http://rmurphey.com/blog/2015/01/26/writing-conference-proposals/)
 * [You would make an awesome speaker](http://weareallaweso.me/)
