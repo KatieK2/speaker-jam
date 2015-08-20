@@ -7,6 +7,7 @@ We'll help you speak at confs. Brainstorm about ideas, review proposals, and ask
 ##In Person:
 
 * *Seattle, WA*: None scheduled. If you want help, contact [KatieK2](https://twitter.com/katiek2) via Twitter.
+* *South Bay & Santa Cruz, CA*: None scheduled. contact [nvcexploder](https://twitter.com/nvcexploder) via Twitter.
 
 ##Online:
 
