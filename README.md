@@ -6,15 +6,11 @@ We'll help you speak at confs. Brainstorm about ideas, review proposals, and ask
 
 ##In Person:
 
-* *Seattle, WA*: None scheduled. Contact [KatieK2](https://twitter.com/katiek2) via Twitter
+* *Seattle, WA*: None scheduled. If you want help, contact [KatieK2](https://twitter.com/katiek2) via Twitter.
 
 ##Online:
 
-* *Office Hours*: [rmurphey](https://twitter.com/rmurphey) hosts [office
-  hours](http://rmurphey.com/blog/2015/01/11/office-hours/); you can
-  [sign up here](https://calendly.com/rmurphey/office-hours/02-02-2015) for an
-  individual slot, or come by her [office hours gitter
-  channel](https://gitter.im/rmurphey/office-hours) on Friday afternoons.
+* 
 
 ##Who are we?
 
