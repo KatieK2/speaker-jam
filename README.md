@@ -11,7 +11,7 @@ We'll help you speak at confs. Brainstorm about ideas, review proposals, and ask
 
 ##Online:
 
-* 
+* [http://helpmeabstract.com/](http://helpmeabstract.com/) - These nice folks are offering to help y ou with your CFP!
 
 ##Who are we?
 
