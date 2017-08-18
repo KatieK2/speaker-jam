@@ -1,23 +1,23 @@
-#Speaker Jam
+# Speaker Jam
 
 We'll help you speak at confs. Brainstorm about ideas, review proposals, and ask questions with real live speakers, both in person and using the power of the internet. 
 
-"Reach out to us - you are not a burden."
+> Reach out to us - you are not a burden.
 
-##In Person:
+## In Person:
 
 * *Seattle, WA*: None scheduled. If you want help, contact [KatieK2](https://twitter.com/katiek2) via Twitter.
 * *South Bay & Santa Cruz, CA*: None scheduled. contact [nvcexploder](https://twitter.com/nvcexploder) via Twitter.
 
-##Online:
+## Online:
 
 * [http://helpmeabstract.com/](http://helpmeabstract.com/) - These nice folks are offering to help y ou with your CFP!
 
-##Who are we?
+## Who are we?
 
 We are a group of speakers and conference organizers who have presented their selected talks at technical conferences. We now want to share our knowledge and help new speakers be successful.
 
-##Links and Articles:
+## Links and Articles:
 
 * [Brainstorming a Conference Talk Proposal](http://www.devchix.com/2012/08/28/brainstorming-a-conference-talk-proposal/)
 * [Talk Ideas from AlterConf](http://www.alterconf.com/talk-wishlist)
@@ -29,7 +29,7 @@ We are a group of speakers and conference organizers who have presented their se
 * [An Addendum About Conference Proposals](http://www.voodootikigod.com/an-addendum-about-conference-proposals/)
 * [Writing the CFP](http://speaking.io/plan/writing-a-cfp/)
 * [Speaking - The Proposal](http://www.pewpewlaser.com/blogs/615)
-* [Talking about Talking](http://www.sicpers.info/2013/02/talking-about-talking/): "A big stumbling block for novice speakers I talk to is to assume that because you know something, it’s not worth talking about as there are people out there who know way more."
+* [Talking about Talking](http://www.sicpers.info/2013/02/talking-about-talking/): >"A big stumbling block for novice speakers I talk to is to assume that because you know something, it’s not worth talking about as there are people out there who know way more."
 * [Is Your Conference Proposal Good Enough?](http://rckbt.me/2014/01/conference-proposals/)
 
 License: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE.html).
