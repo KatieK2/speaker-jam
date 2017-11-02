@@ -1,17 +1,17 @@
 # Speaker Jam
 
-We'll help you speak at confs. Brainstorm about ideas, review proposals, and ask questions with real live speakers, both in person and using the power of the internet. 
+We'll help you speak at confs: brainstorm talk ideas, review proposals, and ask questions with experienced conference speakers and organizers, both in-person and using the magic of the internet. 
 
 > Reach out to us - you are not a burden.
 
 ## In Person:
 
 * *Seattle, WA*: None scheduled. If you want help, contact [KatieK2](https://twitter.com/katiek2) via Twitter.
-* *South Bay & Santa Cruz, CA*: None scheduled. contact [nvcexploder](https://twitter.com/nvcexploder) via Twitter.
+* *South Bay & Santa Cruz, CA*: None scheduled. Contact [nvcexploder](https://twitter.com/nvcexploder) via Twitter.
 
 ## Online:
 
-* [http://helpmeabstract.com/](http://helpmeabstract.com/) - These nice folks are offering to help y ou with your CFP!
+* [http://helpmeabstract.com/](http://helpmeabstract.com/) - These nice folks are offering to help you with your CFP!
 
 ## Who are we?
 
