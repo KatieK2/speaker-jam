@@ -6,8 +6,8 @@ We'll help you speak at confs: brainstorm talk ideas, review proposals, and ask 
 
 ## In Person:
 
-* *Seattle, WA*: None scheduled. If you want help, contact [KatieK2](https://twitter.com/katiek2) via Twitter.
-* *South Bay & Santa Cruz, CA*: None scheduled. Contact [nvcexploder](https://twitter.com/nvcexploder) via Twitter.
+* *Seattle, WA*: None scheduled, but happy to help! Contact [KatieK2](https://twitter.com/katiek2) via Twitter.
+* *South Bay & Santa Cruz, CA*: None scheduled, but happy to help! Contact [nvcexploder](https://twitter.com/nvcexploder) via Twitter.
 
 ## Online:
 
@@ -16,6 +16,10 @@ We'll help you speak at confs: brainstorm talk ideas, review proposals, and ask 
 ## Who are we?
 
 We are a group of speakers and conference organizers who have presented their selected talks at technical conferences. We now want to share our knowledge and help new speakers be successful.
+
+### Contributing:
+
+Are you interested in helping new voices polish up their CFPs and talks? See [contributing](CONTRIBUTING.md).
 
 ## Links and Articles:
 
@@ -32,4 +36,6 @@ We are a group of speakers and conference organizers who have presented their se
 * [Talking about Talking](http://www.sicpers.info/2013/02/talking-about-talking/): >"A big stumbling block for novice speakers I talk to is to assume that because you know something, it’s not worth talking about as there are people out there who know way more."
 * [Is Your Conference Proposal Good Enough?](http://rckbt.me/2014/01/conference-proposals/)
 
-License: [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE.html).
+## License: 
+
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](LICENSE.html).
