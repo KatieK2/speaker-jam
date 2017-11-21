@@ -4,22 +4,30 @@ We'll help you speak at confs: brainstorm talk ideas, review proposals, and ask 
 
 > Reach out to us - you are not a burden.
 
+
 ## In Person:
 
 * *Seattle, WA*: None scheduled, but happy to help! Contact [KatieK2](https://twitter.com/katiek2) via Twitter.
+
 * *South Bay & Santa Cruz, CA*: None scheduled, but happy to help! Contact [nvcexploder](https://twitter.com/nvcexploder) via Twitter.
+
 
 ## Online:
 
 * [http://helpmeabstract.com/](http://helpmeabstract.com/) - These nice folks are offering to help you with your CFP!
 
+* [CascadiaFest Free Ideas](https://github.com/cascadiajs/2015.cascadiajs.com/tree/master/proposals/free_ideas): A collection of "free" talk ideas from CascadiaFest. Leverage one of these and make it your own. 
+
+
 ## Who are we?
 
 We are a group of speakers and conference organizers who have presented their selected talks at technical conferences. We now want to share our knowledge and help new speakers be successful.
 
+
 ### Contributing:
 
 Are you interested in helping new voices polish up their CFPs and talks? See [contributing](CONTRIBUTING.md).
+
 
 ## Links and Articles:
 
